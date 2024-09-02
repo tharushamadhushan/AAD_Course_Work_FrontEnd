@@ -1,0 +1,21 @@
+#weather {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 300px;
+    /*margin: 50px auto;*/
+    text-align: left;
+    position: relative;
+    top: 5vw;
+    left: 7vw;
+    background-color: rgba(0, 0, 0, .2);
+}
+.transparent{
+    position: relative;
+    bottom: 6vw;
+}
+.admin_transparent{
+    position: relative;
+    left: 14vw;
+    top: 7vw;
+}

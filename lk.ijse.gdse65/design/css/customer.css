@@ -1,0 +1,106 @@
+.customer {
+    width: 1226px;
+    position: relative;
+    left: 15px;
+    height: 100vw;
+    /* margin-left: 43px; */
+    /* margin-right: 100px; */
+    /* background: lightgreen; */
+    background: linear-gradient(to bottom, #f5faff 0%, #dde3f1 100%);
+}
+
+.customer > section:first-child {
+    height: auto;
+    position: relative;
+    width: 30vw;
+    top: 10px;
+    bottom: 0;
+
+}
+
+
+.customer > section:first-child > p {
+    position: relative;
+    left: 441px;
+    top: 10px;
+    margin: 0;
+    font-size: 26px;
+    font-family: ARADHANA;
+
+}
+
+#customer_details > div > input {
+    width: 450px;
+}
+
+#customer_details {
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    left: 30px;
+    right: 0;
+    bottom: 0;
+    top:47px;
+    margin: auto;
+
+}
+
+#customer_buttons {
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    left: 180px;
+    right: 0;
+    bottom: 0;
+    top: 40px;
+    margin: auto;
+
+}
+
+.customer > section:nth-child(2)  {
+    position: absolute;
+    width: 500px;
+    left: 570px;
+    right: 0;
+    top: 76px;
+    /*margin: auto;*/
+
+}
+.customer > section:nth-child(3) {
+    height: 80vh;
+    position: absolute;
+    /* background: lightpink; */
+    right: 1194px;
+    width: 2vw;
+    top: 447px;
+    bottom: 0;
+    margin: auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(6, 19, 31, 0.35) 0px -2px 6px 0px inset;
+
+
+}
+.customer > section:nth-child(2) > div>input{
+    position: relative;
+    right: 10px;
+    color: black;
+}
+#customer_details > section{
+    width: 100vw;
+    height: 100vw;
+    margin: 0;
+    padding: 0;
+}
+.customer_table{
+    position: absolute;
+    top: 65px;
+    left: 200px;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+.table{
+    width: auto;
+    position: relative;
+    left: 19vw;
+    top: 7vw;
+}
